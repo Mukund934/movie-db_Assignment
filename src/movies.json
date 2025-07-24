@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "movie": "Inception",
+    "rating": 8.8,
+    "year": 2010,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 2,
+    "movie": "The Dark Knight",
+    "rating": 9.0,
+    "year": 2008,
+    "genre": "Action"
+  },
+  {
+    "id": 3,
+    "movie": "Interstellar",
+    "rating": 8.6,
+    "year": 2014,
+    "genre": "Adventure"
+  }
+]
