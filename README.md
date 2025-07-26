@@ -11,7 +11,7 @@ A clean and responsive movie browsing web app built using **React**, **Vite**, a
 
 ## 🌐 Live Demo
 
-🔗 [**Visit Live App →**](https://movie-db-assignment-git-main-mukund-thakurs-projects.vercel.app/)
+🔗 [**Visit Live App →**](https://movie-db-assignment-eight.vercel.app/)
 
 ---
 
@@ -81,7 +81,7 @@ npm run dev
 
 This project is deployed using **Vercel**.
 
-🔗 [Live App URL](https://movie-db-assignment-git-main-mukund-thakurs-projects.vercel.app/)
+🔗 [Live App URL](https://movie-db-assignment-eight.vercel.app/)
 
 ---
 
